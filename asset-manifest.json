@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/financeirosempapel/static/css/main.73f24474.css",
+    "main.js": "/financeirosempapel/static/js/main.35e98120.js",
+    "static/media/puff.svg": "/financeirosempapel/static/media/puff.38a93f6314122cbc328a4e8e98c083f6.svg",
+    "index.html": "/financeirosempapel/index.html",
+    "main.73f24474.css.map": "/financeirosempapel/static/css/main.73f24474.css.map",
+    "main.35e98120.js.map": "/financeirosempapel/static/js/main.35e98120.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73f24474.css",
+    "static/js/main.35e98120.js"
+  ]
+}
