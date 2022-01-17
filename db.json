@@ -1,0 +1,307 @@
+{
+  "Menu": [
+    {
+      "id": 1,
+      "nome": "Dashboard",
+      "active": true,
+      "path": "/",
+      "icon": "DashboardIcon"
+    },
+    {
+      "id": 2,
+      "nome": "Perguntas",
+      "active": true,
+      "path": "/Borderos",
+      "icon": "<AttachFileIcon/>"
+    },
+    {
+      "id": 3,
+      "nome": "Usuários",
+      "active": true,
+      "path": "/Usuarios",
+      "icon": "<InsertDriveFileIcon/>"
+    },
+    {
+      "id": 4,
+      "nome": "Configurações",
+      "active": true,
+      "path": "/",
+      "icon": "<MiscellaneousServicesIcon/>"
+    }
+  ],
+  "Perguntas": [
+    {
+      "pergunta": "Qual a maior baleia do mundo?",
+      "opcaoum": "Pitangueiras",
+      "opcaodois": "Astúrias",
+      "opcaotres": "Praia Grande",
+      "opcaoquatro": "Tombo",
+      "opcaocinco": "Rosa",
+      "resposta": "Praia Grande",
+      "dificulties": {
+        "id": "2",
+        "dificulties": "Médio"
+      },
+      "id": 2
+    },
+    {
+      "pergunta": "Qual bicho transmite Doença de Chagas?",
+      "opcaoum": "Abelha",
+      "opcaodois": "Barata",
+      "opcaotres": "Barbeiro",
+      "opcaoquatro": "Pulga",
+      "opcaocinco": "Piolho",
+      "resposta": "Barbeiro",
+      "dificulties": {
+        "id": "2",
+        "dificulties": "Médio"
+      },
+      "id": 3
+    },
+    {
+      "pergunta": "Qual fruto é conhecido no Norte e Nordeste como \"jerimum\"?",
+      "opcaoum": "Caju",
+      "opcaodois": "Abóbora",
+      "opcaotres": "Chuchu",
+      "opcaoquatro": "Côco",
+      "opcaocinco": "Melão",
+      "resposta": "Abóbora",
+      "dificulties": {
+        "id": "3",
+        "dificulties": "Difícil"
+      },
+      "id": 4
+    },
+    {
+      "pergunta": "Qual é o coletivo de cães?",
+      "opcaoum": "Matilha",
+      "opcaodois": "Rebanho",
+      "opcaotres": "Alcatéia",
+      "opcaoquatro": "Manda",
+      "opcaocinco": "Bando",
+      "resposta": "Alcatéia",
+      "dificulties": {
+        "id": "2",
+        "dificulties": "Médio"
+      },
+      "id": 5
+    },
+    {
+      "pergunta": "Qual é o triângulo que tem todos os lados diferentes?",
+      "opcaoum": "Equilátero",
+      "opcaodois": "Isóceles",
+      "opcaotres": "Escaleno",
+      "opcaoquatro": "Trapézio",
+      "opcaocinco": "Retângulo",
+      "resposta": "Escaleno",
+      "dificulties": {
+        "id": "2",
+        "dificulties": "Médio"
+      },
+      "id": 6
+    },
+    {
+      "pergunta": "Quem compôs o Hino da Independência?",
+      "opcaoum": "Dom Pedro I.",
+      "opcaodois": "Manuel Bandeira",
+      "opcaotres": "Castro Alvez",
+      "opcaoquatro": "Carlos Gomes",
+      "opcaocinco": "Oswaldo Cruz",
+      "resposta": "Dom Pedro I.",
+      "dificulties": {
+        "id": "3",
+        "dificulties": "Difícil"
+      },
+      "id": 7
+    },
+    {
+      "pergunta": "Qual é o antônimo de \"malograr\"?",
+      "opcaoum": "Perder",
+      "opcaodois": "Fracassar",
+      "opcaotres": "Conseguir",
+      "opcaoquatro": "Desprezar",
+      "opcaocinco": "Vadiar",
+      "resposta": "Conseguir",
+      "dificulties": {
+        "id": "3",
+        "dificulties": "Difícil"
+      },
+      "id": 8
+    },
+    {
+      "pergunta": "Em que país nasceu Carmem Miranda?",
+      "opcaoum": "Brasil",
+      "opcaodois": "Espanha",
+      "opcaotres": "Portugal",
+      "opcaoquatro": "Argentina",
+      "opcaocinco": "México",
+      "resposta": "Portugal",
+      "dificulties": {
+        "id": "2",
+        "dificulties": "Médio"
+      },
+      "id": 9
+    },
+    {
+      "pergunta": "Qual foi o último Presidente do período da ditadura militar no Brasil?",
+      "opcaoum": "Costa e Silva",
+      "opcaodois": "João Figueiredo",
+      "opcaotres": "Ernesto Geisel",
+      "opcaoquatro": "Emilio Médici",
+      "opcaocinco": "Tancredo Neves",
+      "resposta": "João Figueiredo",
+      "dificulties": {
+        "id": "3",
+        "dificulties": "Difícil"
+      },
+      "id": 10
+    },
+    {
+      "pergunta": "Seguindo a sequência do baralho, qual carta vem depois do dez?",
+      "opcaoum": "Rei",
+      "opcaodois": "Valete",
+      "opcaotres": "Nove",
+      "opcaoquatro": "Ás",
+      "opcaocinco": "Dama",
+      "resposta": "Valete",
+      "dificulties": {
+        "id": "1",
+        "dificulties": "Fácil"
+      },
+      "id": 11
+    },
+    {
+      "pergunta": "O adjetivo \"venoso\" está relacionado a:",
+      "opcaoum": "Vela",
+      "opcaodois": "Vento",
+      "opcaotres": "Vênia",
+      "opcaoquatro": "Veia",
+      "opcaocinco": "Veneno",
+      "resposta": "Veia",
+      "dificulties": {
+        "id": "2",
+        "dificulties": "Médio"
+      },
+      "id": 12
+    },
+    {
+      "pergunta": "Que nome se dá à purificação por meio da água?",
+      "opcaoum": "Abolição",
+      "opcaodois": "Abnegação",
+      "opcaotres": "Ablução",
+      "opcaoquatro": "Abrupção",
+      "opcaocinco": "Absorção",
+      "resposta": "Ablução",
+      "dificulties": {
+        "id": "3",
+        "dificulties": "Difícil"
+      },
+      "id": 13
+    },
+    {
+      "pergunta": "Qual montanha se localiza entre a fronteira do Tibet com o Nepal?",
+      "opcaoum": "Monte Everest",
+      "opcaodois": "Monte Carlo",
+      "opcaotres": "Monte Fuji",
+      "opcaoquatro": "Monte Branco",
+      "opcaocinco": "Monte Serrat",
+      "resposta": "Monte Everest",
+      "dificulties": {
+        "id": "3",
+        "dificulties": "Difícil"
+      },
+      "id": 14
+    },
+    {
+      "pergunta": "Em que parte do corpo se encontra a epiglote?",
+      "opcaoum": "Estômago",
+      "opcaodois": "Pâncreas",
+      "opcaotres": "Rim",
+      "opcaoquatro": "Boca",
+      "opcaocinco": "Pulmão",
+      "resposta": "Boca",
+      "dificulties": {
+        "id": "2",
+        "dificulties": "Médio"
+      },
+      "id": 15
+    },
+    {
+      "pergunta": "A compensação por perda é chamada de...",
+      "opcaoum": "Déficit",
+      "opcaodois": "Indenização",
+      "opcaotres": "Indexação",
+      "opcaoquatro": "Indébito",
+      "opcaocinco": "Indagação",
+      "resposta": "Indenização",
+      "dificulties": {
+        "id": "2",
+        "dificulties": "Médio"
+      },
+      "id": 16
+    },
+    {
+      "pergunta": "Em que dia nasceu e em que dia foi registrado o Presidente Lula?",
+      "opcaoum": "6 e 27 de outubro",
+      "opcaodois": "8 e 27 de outubro",
+      "opcaotres": "9 e 26 de outubro",
+      "opcaoquatro": "7 e 23 de outubro",
+      "opcaocinco": "5 e 29 de outubro",
+      "resposta": "6 e 27 de outubro",
+      "dificulties": {
+        "id": "3",
+        "dificulties": "Difícil"
+      },
+      "id": 17
+    }
+  ],
+  "Dificuldade": [
+    {
+      "id": 1,
+      "dificulties": "Fácil"
+    },
+    {
+      "id": 2,
+      "dificulties": "Médio"
+    },
+    {
+      "id": 3,
+      "dificulties": "Difícil"
+    }
+  ],
+  "Usuarios": [
+    {
+      "id": 1,
+      "nome": "Thiago",
+      "sobrenome": "Amaro Rodrigues",
+      "email": "thiago.amaro@abainfra.com.br",
+      "login": "ThiagoARR",
+      "tipousuario": "Super Administrador"
+    },
+    {
+      "nome": "Carolina",
+      "sobrenome": " D'angelo Battaglini",
+      "email": "carolinadangelob@gmail.com",
+      "login": "carold",
+      "tipousuario": {
+        "id": "3",
+        "tipousuario": "Jogador"
+      },
+      "id": 3
+    }
+  ],
+  "TipoUsuario": [
+    {
+      "id": 1,
+      "tipousuario": "Super Administrador"
+    },
+    {
+      "id": 2,
+      "tipousuario": "Administrador"
+    },
+    {
+      "id": 3,
+      "tipousuario": "Jogador"
+    }
+  ]
+}
